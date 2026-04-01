@@ -23,5 +23,7 @@ public class QuestionTest {
 		assertEquals(q131.getAnswer(), "The New York Yankees"); 
 		assertEquals(q131.getPoints(), 131);
 	}
+
+
 }
 
